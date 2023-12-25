@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Netclan Explorer</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Select">Select Item</string>
+    <string name="_1km_100km">1km 100km</string>
+    <string name="save_explore"><![CDATA[Save&Explore]]></string>
+</resources>
